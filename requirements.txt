@@ -1,0 +1,4 @@
+qrcode
+openCV
+pillow
+time
